@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysauto_par">
+    <sysauto_par action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_run_end/>
+        <entered_run_start/>
+        <entered_time/>
+        <max_drift/>
+        <name>Scheduled Execution of Project 2 delivery group by capability</name>
+        <notification display_value="">34f9c792c3707210fa949702b401311c</notification>
+        <offset/>
+        <offset_type>0</offset_type>
+        <repeat_every/>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_daysofweek/>
+        <run_end/>
+        <run_month/>
+        <run_period>1970-01-01 00:00:00</run_period>
+        <run_start>2025-10-28 02:44:26</run_start>
+        <run_time/>
+        <run_type>weekly</run_type>
+        <run_weekinmonth/>
+        <sys_class_name>sysauto_par</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 14:16:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>b0f98f92c3707210fa949702b401318f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scheduled Execution of Project 2 delivery group by capability</sys_name>
+        <sys_package display_value="Training Content Management" source="x_1843507_traini_0">4bda862ec32c7210fa949702b40131ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training Content Management">4bda862ec32c7210fa949702b40131ee</sys_scope>
+        <sys_update_name>sysauto_par_b0f98f92c3707210fa949702b401318f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 14:16:53</sys_updated_on>
+        <time_zone/>
+        <to_export>fcf9c792c3707210fa949702b4013115</to_export>
+        <upgrade_safe>false</upgrade_safe>
+        <zip_output>false</zip_output>
+    </sysauto_par>
+</record_update>
