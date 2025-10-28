@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_hr_catalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-24 20:26:06</sys_created_on>
+        <sys_id>37a18d25c3343210fa949702b4013141</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Catalog View</sys_name>
+        <sys_package display_value="Training Content Management" source="x_1843507_traini_0">4bda862ec32c7210fa949702b40131ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training Content Management">4bda862ec32c7210fa949702b40131ee</sys_scope>
+        <sys_update_name>sys_ui_view_37a18d25c3343210fa949702b4013141</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-24 20:26:06</sys_updated_on>
+        <title>HR Catalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

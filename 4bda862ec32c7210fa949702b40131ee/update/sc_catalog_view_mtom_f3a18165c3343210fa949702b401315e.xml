@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="HR Catalog">56714d25c3343210fa949702b40131de</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-24 20:26:06</sys_created_on>
+        <sys_id>f3a18165c3343210fa949702b401315e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Catalog.catalog_hr_catalog</sys_name>
+        <sys_package display_value="Training Content Management" source="x_1843507_traini_0">4bda862ec32c7210fa949702b40131ee</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_hr_catalog">f7a18165c3343210fa949702b401315c</sys_portal_page>
+        <sys_scope display_value="Training Content Management">4bda862ec32c7210fa949702b40131ee</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_f3a18165c3343210fa949702b401315e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-24 20:26:06</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>
